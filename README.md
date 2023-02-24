@@ -18,12 +18,12 @@ Steps to run this react app on your machine
 
 - clone the repo 
 
-git clone https://github.com/venkeyRao/haystek.git
+    git clone https://github.com/venkeyRao/haystek.git
 
 - install dependencies 
 
-npm install
+    npm install
 
 - run the app
 
-npm run start
+    npm run start
